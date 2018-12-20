@@ -1,2 +1,2 @@
 # in-the-pipeline
-Just using html/css3
+Trying to show what can be done by using transitions
